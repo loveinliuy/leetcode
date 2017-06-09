@@ -10,13 +10,13 @@
 1. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/#/description)
 1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/#/description)
 1. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/#/description)
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/#/description)
+1. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/#/description)
+1. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/#/description)
+1. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/#/description)
+1. [3Sum(Three Sum)](https://leetcode.com/problems/3sum/#/description)
+1. [3Sum Closest(Three Sum Closest)](https://leetcode.com/problems/3sum-closest/#/description)
+1. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/#/description)
 1. 
 1. 
 1. 
