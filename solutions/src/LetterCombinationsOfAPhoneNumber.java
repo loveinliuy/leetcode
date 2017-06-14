@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class LetterCombinationsOfAPhoneNumber {
 
-    // my solution
+//    // my solution
 //    private static final char[][] DIGITS = {
 //            {' '},
 //            {},
@@ -56,30 +56,46 @@ public class LetterCombinationsOfAPhoneNumber {
 //        return result;
 //    }
 
-    // better solution
+//    // better solution
+//    public List<String> letterCombinations(String digits) {
+//        String[] map = {" ", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+//        List<String> result = new ArrayList<>();
+//        StringBuilder builder = new StringBuilder();
+//        int depth = 0;
+//        if (digits == null || digits.length() == 0) return result;
+//        dfs(digits, 0, map, builder, result);
+//
+//        return result;
+//    }
+//
+//    //dfs with backtracking
+//    private void dfs(String digits, int depth, String[] map, StringBuilder builder, List<String> result) {
+//        if (depth == digits.length()) {
+//            result.add(builder.toString());
+//            return;
+//        }
+//
+//        for (int i = 0; i < map[digits.charAt(depth) - '0'].length(); i++) {
+//            builder.append(map[digits.charAt(depth) - '0'].charAt(i));
+//            dfs(digits, depth + 1, map, builder, result);
+//            builder.deleteCharAt(builder.length() - 1);
+//        }
+//    }
+
+    // i think this is the best solution
     public List<String> letterCombinations(String digits) {
-        String[] map = {" ", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
-        List<String> result = new ArrayList<>();
-        StringBuilder builder = new StringBuilder();
-        int depth = 0;
-        if (digits == null || digits.length() == 0) return result;
-        dfs(digits, 0, map, builder, result);
-
-        return result;
-    }
-
-    //dfs with backtracking
-    private void dfs(String digits, int depth, String[] map, StringBuilder builder, List<String> result) {
-        if (depth == digits.length()) {
-            result.add(builder.toString());
-            return;
+        LinkedList<String> ans = new LinkedList<>();
+        String[] mapping = new String[]{"0", "1", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        ans.add("");
+        for (int i = 0; i < digits.length(); i++) {
+            int x = Character.getNumericValue(digits.charAt(i));
+            while (ans.peek().length() == i) {
+                String t = ans.remove();
+                for (char s : mapping[x].toCharArray())
+                    ans.add(t + s);
+            }
         }
-
-        for (int i = 0; i < map[digits.charAt(depth) - '0'].length(); i++) {
-            builder.append(map[digits.charAt(depth) - '0'].charAt(i));
-            dfs(digits, depth + 1, map, builder, result);
-            builder.deleteCharAt(builder.length() - 1);
-        }
+        return ans;
     }
 
     public static void main(String[] args) {
