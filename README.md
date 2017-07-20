@@ -23,13 +23,13 @@
 1. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description)
 1. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/#/description)
 1. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/#/description)
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/description)
+1. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/#/description)
+1. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description)
+1. [Remove Element](https://leetcode.com/problems/remove-element/#description)
+1. [Implement strStr()](https://leetcode.com/problems/implement-strstr/#/description)
+1. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/#/description)
+1. [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/#/description)
 1. 
 1. 
 1. 
