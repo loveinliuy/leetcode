@@ -30,13 +30,13 @@
 1. [Implement strStr()](https://leetcode.com/problems/implement-strstr/#/description)
 1. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/#/description)
 1. [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/#/description)
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [Next Permutation](https://leetcode.com/problems/next-permutation/#/description)
+1. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/#/description)
+1. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/#/description)
+1. [Search for a Range](https://leetcode.com/problems/search-for-a-range/#/description)
+1. [Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)
+1. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/#/description)
+1. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/#/description)
 1. 
 1. 
 1. 
