@@ -37,13 +37,13 @@
 1. [Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)
 1. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/#/description)
 1. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/#/description)
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [Count and Say](https://leetcode.com/problems/count-and-say/#/description)
+1. [Combination Sum](https://leetcode.com/problems/combination-sum/#/description)
+1. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/description)
+1. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/#/description)
+1. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/#/description)
+1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/#/description)
+1. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 1. 
 1. 
 1. 
@@ -337,7 +337,7 @@
 1. 
 1. 
 1. 
-1. 
+1. [Counting Bits](https://leetcode.com/problems/counting-bits/#/description)
 1. 
 1. 
 1. 
