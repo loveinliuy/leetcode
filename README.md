@@ -44,6 +44,7 @@
 1. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/#/description)
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/#/description)
 1. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
+1. [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 1. 
 1. 
 1. 
@@ -51,13 +52,12 @@
 1. 
 1. 
 1. 
+1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 1. 
 1. 
 1. 
 1. 
-1. 
-1. 
-1. 
+1. [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 1. 
 1. 
 1. 
