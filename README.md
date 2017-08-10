@@ -47,7 +47,7 @@
 1. [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 1. 
 1. 
-1. 
+1. [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 1. 
 1. 
 1. 
