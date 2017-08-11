@@ -45,8 +45,8 @@
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/#/description)
 1. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 1. [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
-1. 
-1. 
+1. [Permutations](https://leetcode.com/problems/permutations/description/)
+1. [PermutationsII](https://leetcode.com/problems/permutations-ii/description/)
 1. [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 1. 
 1. 
