@@ -48,14 +48,14 @@
 1. [Permutations](https://leetcode.com/problems/permutations/description/)
 1. [PermutationsII](https://leetcode.com/problems/permutations-ii/description/)
 1. [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
-1. 
-1. 
+1. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+1. [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
 1. 
 1. 
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 1. 
 1. 
-1. 
+1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
 1. 
 1. [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 1. 
