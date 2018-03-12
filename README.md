@@ -54,16 +54,16 @@
 1. 
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 1. [Sprial Matrix](https://leetcode.com/problems/spiral-matrix/description/)
-1. 
+1. [Jump Game](https://leetcode.com/problems/jump-game/description/)
 1. [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
-1. 
+1. [Insert Interval](https://leetcode.com/problems/insert-interval/description/)
 1. [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
+1. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence)
+1. [Rotate List](https://leetcode.com/problems/rotate-list/description/)
+1. [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
+1. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
+1.
 1. 
 1. 
 1. 
