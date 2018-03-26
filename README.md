@@ -63,10 +63,10 @@
 1. [Rotate List](https://leetcode.com/problems/rotate-list/description/)
 1. [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
 1. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)
-1.
-1. 
-1. 
-1. 
+1. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
+1. [Validate Number](https://leetcode.com/problems/valid-number/description/)
+1. [Plus One](https://leetcode.com/problems/plus-one/description/)
+1. [Add Binary](https://leetcode.com/problems/add-binary/description/)
 1. 
 1. 
 1. 
