@@ -68,12 +68,12 @@
 1. [Plus One](https://leetcode.com/problems/plus-one/description/)
 1. [Add Binary](https://leetcode.com/problems/add-binary/description/)
 1. 
+1. [Sqrt(X)](https://leetcode.com/problems/sqrtx/description/)
+1. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+1. [Simplify Path](https://leetcode.com/problems/simplify-path/description/)
 1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/description/)
+1. [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/description/)
 1. 
 1. 
 1. 
