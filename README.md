@@ -74,14 +74,13 @@
 1. 
 1. [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/description/)
 1. [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/description/)
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [Sort Colors](https://leetcode-cn.com/problems/sort-colors/description/)
+1.
+1. [Combinations](https://leetcode-cn.com/problems/combinations/description/)
+1. [Subsets](https://leetcode-cn.com/problems/subsets/description/)
+1. [Word Search](https://leetcode-cn.com/problems/word-search/description/)
+1. [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/)
+1.
 1. 
 1. 
 1. 
